@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+.container {
+  color: white;
+}
+
+.header {
+  background-color: black;
+  border-bottom: 2px solid grey;
+}
+
+.header-title {
+  color: white;
+  margin: 0;
+  padding: 1rem;
+}
