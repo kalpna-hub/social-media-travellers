@@ -6,10 +6,11 @@ const Header=()=>{
        <>
        <header className="header">
             <h3 className="header-title">
-                Social Media For Travellers
+               TravelMedia.in
             </h3>
             
         </header>
+        Social Media For Travellers
         <Outlet></Outlet>
     </>
     )
